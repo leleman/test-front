@@ -1,0 +1,152 @@
+i.fa.fa-circle {
+    color: whitesmoke;
+}
+
+i.fa.fa-wifi {
+	color: whitesmoke;
+}
+
+p.time-div {
+	color: whitesmoke;
+}
+
+.col-md-4.text-right.header-row{
+	color: whitesmoke;
+}
+
+h1.text-center.time-div{
+	color: whitesmoke;
+}
+
+p.text-center.date-div{
+	color: whitesmoke;
+}
+
+i.fa.fa-camera{
+	color: whitesmoke;
+	font-size: 21px;
+}
+.principal {
+    width: 311px;
+    padding: 10px 5px;;
+    text-align: center;
+    background: currentColor;
+    margin-left:-10px;
+    min-height: 534px;
+    margin-top: 28px;
+}
+
+.row{
+	    font-size: 10px;
+}
+
+.row.time-row {
+    margin-bottom: 96%;
+    margin-top: 3%;
+}
+
+.row.footer-row {
+    margin-top: 4%;
+}
+
+h1.text-center.time-div {
+    margin-bottom: 3px;
+    font-size: 51px;
+}
+
+.label-default {
+    background-color: #777;
+    color: #777777;
+}
+
+label.label.label-default {
+    background-color: #777;
+    color: #777777;
+    border-radius: 4.25em;
+}
+
+a.btn.btn-default.btn-lg.btn-get {
+    border-radius: 4.25em;
+}
+
+.usuario {
+    color: whitesmoke;
+}
+
+body.well {
+    background-color: rgb(217, 235, 247);
+}
+
+.celular {
+    background-color: white;
+    height: 705px;
+    padding: 26px;
+    border-radius: 2.65em;
+    width: 342px;
+    margin-left: 33%;
+}
+
+
+.auto-falante1 i.fa.fa-circle {
+    color: currentColor;
+    font-size: 7px;
+    margin-right: 143px;
+    float: right;
+}
+
+.auto-falante2 {
+    margin-top: 10px;
+    margin-bottom: -11px;
+    width: 18px;
+    margin-left: 87px;
+}
+
+.auto-falante3 label.label.label-default {
+    color: currentColor;
+    background-color: currentColor;
+    font-size: 3px;
+    margin-left: 18px;
+}
+
+.auto-falante3 {
+    width: 100px;
+    float: right;
+    margin-right: 95px;
+    margin-top: -12px;
+}
+
+.auto-falante2 i.fa.fa-circle {
+    color: currentColor;
+}
+
+.botao-homme i.fa.fa-circle {
+    color: currentColor;
+    font-size: 59px;
+    margin-left: 119px;
+    margin-top: 21px;
+}
+
+a.btn.btn-sm.btn-danger.btn-back {
+   
+}
+
+.imagem-avatar {
+    margin-top: 47px;
+}
+
+h1.name {
+    margin-bottom: -10px;
+}
+
+.email-profile {
+    font-size: larger;
+}
+
+a.btn.btn-sm.btn-danger.btn-back {
+    margin-top: 51%;
+    background-color: white;
+    border-color: currentColor;
+    color: black;
+    font-size: 24px;
+    border-radius: 4.25em;
+}

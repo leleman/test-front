@@ -1,9 +1,11 @@
-Nome Completo: Luiz Boça
+Nome Completo: Leonardo Paulino Bernardo
 
-E-mail: luiz.boca@clubedosminigameiros.com.br
+E-mail: leonardo.bernardo10@gmail.com
 
-Linkedin: http://linkedin.com/luiz.boca
+Linkedin: https://br.linkedin.com/in/leonardo-paulino-bernardo-64377263
 
-Telefone: (44) 44444-4444 
+Telefone: (11) 95995-8545 
 
-Portfólio (Opicional): clubedosminigameiros.com.br/portfolio
+Portfólio (Opicional): http://test.webjump.com.br/shpneus/ 
+					   http://www.avextrax.com.br/
+					   http://www.emporiumdoprazer.com.br		
